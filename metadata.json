@@ -1,0 +1,7 @@
+{
+  "name": "CODIS/FGG",
+  "description": "A browser-based database management system that replaces spreadsheets with custom relational tables, user access control permissions, spreadsheet schema import, and custom report export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
